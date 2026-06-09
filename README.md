@@ -4,25 +4,6 @@
 
 Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Sul. Concluí a faculdade de Gestçao de Recursos Humanos. Atualmente, estou com o curso de Análise e Desenvolvimento de Sistemas na Univates, trancado. Busco estar sempre atualizada. Recentemente concluí um bootcamp de tecnologia na TripleTen, onde pude aplicar meus conhecimentos em Python, SQL e Análise de Dados em projetos práticos.
 
-
-    <a href="https://github.com/ketlincobalch?tab=repositories&sort=stargazers">
-        <img 
-            alt="Total de estrelas" 
-            title="Total de estrelas GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/stars/Larissakich?color=55960c&style=for-the-badge&labelColor=488207&logo=star&label=estrelas"
-        />
-    </a>
-    <a href="https://github.com/ketlincobalch?tab=followers">
-        <img 
-            alt="Seguidores" 
-            title="Me siga no GitHub" 
-            src="https://custom-icon-badges.demolab.com/github/followers/Larissakich?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Seguidores&logoColor=white"
-        />
-    </a>
-</p>
-
----
-
 ### 🤖 Linguagens e Tecnologias
 
 <img 
@@ -40,8 +21,8 @@ Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Su
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
-  
-/>
+  />
+
 <img 
     align="left" 
     alt="PANDAS" 
@@ -49,8 +30,8 @@ Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Su
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
-           
-/>
+ />          
+
 <img 
     align="left" 
     alt="Jupyter"
@@ -58,8 +39,8 @@ Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Su
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
-          
-/>
+  />        
+
 <img 
     align="left" 
     alt="Python"
@@ -67,8 +48,8 @@ Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Su
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
-           
-/>
+  />         
+
 <img 
     align="left" 
     alt="Plotly" 
@@ -76,8 +57,8 @@ Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Su
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
-            
-/>
+  />          
+
 <img 
     align="left" 
     alt="JQuery" 
@@ -93,7 +74,7 @@ Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Su
     width="30px" 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-
+/>
 <br/>
 <br/>
 
