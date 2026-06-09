@@ -20,7 +20,7 @@ Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Su
     title="SQL"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg"
   />
 
 <img 
@@ -29,7 +29,7 @@ Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Su
     title="PANDAS"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" 
  />          
 
 <img 
@@ -38,7 +38,7 @@ Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Su
     title="Jupyter" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jupyter/jupyter-original.svg"
   />        
 
 <img 
@@ -47,7 +47,7 @@ Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Su
     title="Python" 
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"
   />         
 
 <img 
@@ -56,7 +56,7 @@ Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Su
     title="Plotly"
     width="30px" 
     style="padding-right: 10px;" 
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg" />
+    src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original.svg"
   />          
 
 <img 
