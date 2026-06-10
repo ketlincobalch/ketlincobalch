@@ -2,7 +2,7 @@
 
 **`Analista de Dados`**
 
-Analista de Dados com 10 anos de experiência em escritórios contábeis e formação técnica pelo bootcamp TripleTen, com 13 projetos práticos concluídos. Atuação com Python, SQL, Pandas, Tableau e testes A/B para análise, tratamento e visualização de dados. Histórico comprovado de gestão de grandes volumes de informação, controle de indicadores e tomada de decisão baseada em dados em ambientes de alta demanda operacional.
+Analista de Dados com 10 anos de experiência em escritórios contábeis e formação técnica pelo bootcamp TripleTen, com 14 projetos práticos concluídos. Atuação com Python, SQL, Pandas, Tableau e testes A/B para análise, tratamento e visualização de dados. Histórico comprovado de gestão de grandes volumes de informação, controle de indicadores e tomada de decisão baseada em dados em ambientes de alta demanda operacional.
 
 ### Linguagens e Tecnologias
 
