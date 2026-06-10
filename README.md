@@ -1,10 +1,10 @@
-# 👩🏻‍💻 Ketlin Cobalchini
+# Ketlin Rosa Cobalchini
 
 **`Analista de Dados`**
 
-Me chamo Ketlin Rosa Cobalchini, tenho 28 anos e sou natural do Rio Grande do Sul. Concluí a faculdade de Gestão de Recursos Humanos. Atualmente, estou com o curso de Análise e Desenvolvimento de Sistemas na Univates, trancado. Busco estar sempre atualizada. Recentemente concluí um bootcamp de tecnologia na TripleTen, onde pude aplicar meus conhecimentos em Python, SQL e Análise de Dados em projetos práticos.
+Analista de Dados com 10 anos de experiência em escritórios contábeis e formação técnica pelo bootcamp TripleTen, com 13 projetos práticos concluídos. Atuação com Python, SQL, Pandas, Tableau e testes A/B para análise, tratamento e visualização de dados. Histórico comprovado de gestão de grandes volumes de informação, controle de indicadores e tomada de decisão baseada em dados em ambientes de alta demanda operacional.
 
-### 🤖 Linguagens e Tecnologias
+### Linguagens e Tecnologias
 
 <img 
     align="left" 
