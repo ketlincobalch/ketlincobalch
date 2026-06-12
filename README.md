@@ -78,7 +78,19 @@ Analista de Dados com 10 anos de experiência em escritórios contábeis e forma
 <br/>
 <br/>
 
-### 📊 Projetos
+### 📊 Estatísticas
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=ketlincobalch&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
+
+</p>
+
+
+Projetos
 
 ###TripleTen Bootcamp | Sprint 3 – Análise Estatística e Exploratória | 
 Limpeza e tratamento de dados (remoção de duplicados e preenchimento de valores ausentes)
