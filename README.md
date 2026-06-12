@@ -91,6 +91,11 @@ Analista de Dados com 10 anos de experiência em escritórios contábeis e forma
 
 
 
+
+
+
+
+
 ### Projetos
 
 ###TripleTen Bootcamp | Sprint 3 – Análise Estatística e Exploratória | 
