@@ -99,6 +99,7 @@ Estudo de métricas de negócio (LTV, CAC e ROI) para otimização de investimen
 marketing digital. Identificação de canais com maior retorno e recomendação estratégica de
 alocação de orçamento, com base em análise de logs de acesso, pedidos e custos de
 campanhas. Projeto desenvolvido em Python com Pandas, Matplotlib e análise de coortes.
+Link de Repositório:
 
 ###TripleTen Bootcamp | Sprint 9 – Teste A/B e Priorização de Hipóteses | 
 Aplicação dos frameworks ICE e RICE para priorização de hipóteses de impacto em receita.
@@ -106,3 +107,4 @@ Condução de teste A/B com análise de conversão, ticket médio e receita acum
 identificação de outliers e validação de significância estatística. Projeto resultou em
 recomendação estratégica sobre hipóteses mais promissoras e decisão baseada em dados
 sobre continuidade do experimento.
+Link de Repositório:
